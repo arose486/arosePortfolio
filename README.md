@@ -22,9 +22,9 @@ This portfolio serves as a dynamic hub to highlight:
 
 ## 📂 Projects
 **Data Analysis**:     
-   - [Nintendo 2018 Ratings Analytics](https://github.com/arose486/Nintendo-2018-Ratings-Analytics)  
-   - [My Top Played Spotify Songs Analytics](https://github.com/arose486/My-Top-Played-Spotify-Songs-Analytics)  
-   - [SQL Script](https://arose486.github.io/arosePortfolio/assets/annricebooksscript.pdf)     
+   - [Nintendo 2018 Ratings Analytics (Python)](https://github.com/arose486/Nintendo-2018-Ratings-Analytics)  
+   - [My Top Played Spotify Songs Analytics (Python)](https://github.com/arose486/My-Top-Played-Spotify-Songs-Analytics)  
+   - [My Most Played Games on Steam (Power BI and SQL)](https://github.com/arose486/arosePortfolio/blob/main/assets/MySteamData.pdf)     
 
 **Tech Writing**:
    - [Optimizing Photos for Website Documentation](https://arose486.github.io/arosePortfolio/assets/OptimizingPhotosforyourWebsiteArticle.pdf)  
