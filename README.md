@@ -28,7 +28,8 @@ This portfolio serves as a dynamic hub to highlight:
 
 **Tech Writing**:
    - [Optimizing Photos for Website Documentation](https://arose486.github.io/arosePortfolio/assets/OptimizingPhotosforyourWebsiteArticle.pdf)  
-   - [Tutorial on Creating A Bio Video](https://arose486.github.io/arosePortfolio/assets/BioVideoTutorial.pdf)  
+   - [Tutorial on Creating A Bio Video](https://arose486.github.io/arosePortfolio/assets/BioVideoTutorial.pdf)
+   - [Usability Testing](https://github.com/arose486/arosePortfolio/blob/main/assets/UsabilityTesting.pdf)
 
 **Python**:
    - [Guessing Game](https://github.com/arose486/Guessing-Game)  
